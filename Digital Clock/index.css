@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:rgb(178, 175, 175);
+    margin: 100px 50px 50px 50px;
+    padding: 30px 30px 30px 30px;
+    display: grid;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    gap: 50px;
+    font-size: 30px;
+}
+h1{
+    font-size: 100px;
+}
+div{
+    padding: 20px;
+    margin: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    align-content: center;
+    /* border: 2px solid  black; */
+    font-size: 100px;
+    background-color: rgba(235, 228, 228, 0.645);
+    box-shadow: 15px 15px  rgba(235, 228, 228, 0.519);
+}
